@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.products button {
+  margin: 5px;
+  padding: 10px 15px;
+  background: #6b4f4f;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.products button:hover {
+  background: #8b6f6f;
+}
+
+.cart {
+  margin-top: 20px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+}
